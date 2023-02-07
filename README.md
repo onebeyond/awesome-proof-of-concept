@@ -18,6 +18,8 @@ Best practices are procedures and techniques that have been proved to be effecti
 
 DevOps is the practice of creating a cross-functional team between developers and operations professionals to focus on efficiently delivering applications, services, and products to customers. DevOps teams strive to increase collaboration, communication, and coordination to produce results as quickly and efficiently as possible. This practice emphasizes the importance of working together to develop, deploy, and monitor applications quickly, reliably, and securely.
 
+- [POC Secret Management with Blackbox](https://github.com/UlisesGascon/POC-secret-management-with-blackbox) —  Store secrets securely in Git using strong encryption without compromising the developer experience.
+
 
 ## Internet Of Things
 
