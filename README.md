@@ -14,6 +14,13 @@ Best practices are procedures and techniques that have been proved to be effecti
 - [POC JSON Schemas and Semantic Versioning](https://github.com/UlisesGascon/POC-semver-and-json-schemas) — Discover the Power of JSON Schemas and Semantic Versioning: Unveiling the Potential of IoT and Event-Driven Architectures.
 
 
+## DevOps
+
+DevOps is the practice of creating a cross-functional team between developers and operations professionals to focus on efficiently delivering applications, services, and products to customers. DevOps teams strive to increase collaboration, communication, and coordination to produce results as quickly and efficiently as possible. This practice emphasizes the importance of working together to develop, deploy, and monitor applications quickly, reliably, and securely.
+
+- [POC Secret Management with Blackbox](https://github.com/UlisesGascon/POC-secret-management-with-blackbox) —  Store secrets securely in Git using strong encryption without compromising the developer experience.
+
+
 ## Internet Of Things
 
 Internet of things (IoT) is a concept where all physical devices are connected to the internet, gathering data and sharing it with each other to create a world of interconnected devices.
