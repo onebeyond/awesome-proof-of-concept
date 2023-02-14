@@ -27,5 +27,4 @@ Internet of things (IoT) is a concept where all physical devices are connected t
 
 - [POC Azure IOT HUB - Device Communications](https://github.com/UlisesGascon/POC-azure-iot-hub-device-communications) — Azure IOT Hub - A Comprehensive Proof of Concept Walkthrough in Node.js!.
 - [POC Azure IOT Digital Twins modeling](https://github.com/UlisesGascon/POC-azure-iot-digital-twins-modeling) — Unlock the Power of IoT with Azure Digital Twin Modeling
-
-
+- [POC Azure IOT HUB - Ontology with Digital Twin Definition Language (DTDL)](https://github.com/UlisesGascon/POC-azure-IOT-DTDL-ontology) — The power of Ontology in the Digital Twins Definition Language universe to build powerful and sustainable devices.
