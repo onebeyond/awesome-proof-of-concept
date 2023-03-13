@@ -28,3 +28,10 @@ Internet of things (IoT) is a concept where all physical devices are connected t
 - [POC Azure IOT HUB - Device Communications](https://github.com/UlisesGascon/POC-azure-iot-hub-device-communications) — Azure IOT Hub - A Comprehensive Proof of Concept Walkthrough in Node.js!.
 - [POC Azure IOT Digital Twins modeling](https://github.com/UlisesGascon/POC-azure-iot-digital-twins-modeling) — Unlock the Power of IoT with Azure Digital Twin Modeling
 - [POC Azure IOT HUB - Ontology with Digital Twin Definition Language (DTDL)](https://github.com/UlisesGascon/POC-azure-IOT-DTDL-ontology) — The power of Ontology in the Digital Twins Definition Language universe to build powerful and sustainable devices.
+
+
+## NodeJS
+
+Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser.
+
+- [POC Streams processing large files](https://github.com/MatteoDiPaolo/googleTakeoutLocations-to-geoJson) — Node Streams based solution to translate Google Takeout Locations History large jsons to GeoJson.
