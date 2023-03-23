@@ -20,6 +20,8 @@ DevOps is the practice of creating a cross-functional team between developers an
 
 - [POC Secret Management with Blackbox](https://github.com/UlisesGascon/POC-secret-management-with-blackbox) —  Store secrets securely in Git using strong encryption without compromising the developer experience.
 
+- [POC AWS Proton](https://github.com/guidesmiths/chapter-devops/tree/main/pocs/AwsProton) — Not only the conclusions after having tried this service, also a guide to configure a functional environment of it.
+
 
 ## Internet Of Things
 
