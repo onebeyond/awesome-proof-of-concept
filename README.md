@@ -20,6 +20,7 @@ DevOps is the practice of creating a cross-functional team between developers an
 
 - [POC Secret Management with Blackbox](https://github.com/UlisesGascon/POC-secret-management-with-blackbox) —  Store secrets securely in Git using strong encryption without compromising the developer experience.
 - [POC AWS Proton](https://github.com/guidesmiths/chapter-devops/tree/main/pocs/AwsProton) — Not only the conclusions after having tried this service, also a guide to configure a functional environment of it.
+- [POC Node.js Machines Ping Dashboard](https://github.com/UlisesGascon/poc-nodejs-machines-ping-dashboard) - A simple way to visualize the Node.js Org Machines inventory and perform a cyclical ping to collect network metrics with a full dockerize environment and a fancy Grafana dashboard.
 
 
 ## Internet Of Things
