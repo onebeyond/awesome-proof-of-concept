@@ -15,6 +15,7 @@ A curated list of awesome Proof of Concept projects to learn patterns, libraries
 Best practices are procedures and techniques that have been proved to be effective through repeated use, and often have come to be accepted as the standard way of doing things in a particular area of activity.
 
 - [POC JSON Schemas and Semantic Versioning](https://github.com/UlisesGascon/POC-semver-and-json-schemas) — Discover the Power of JSON Schemas and Semantic Versioning: Unveiling the Potential of IoT and Event-Driven Architectures.
+- [POC automation of releases]([https://github.com/UlisesGascon/POC-semver-and-json-schemas](https://github.com/inigomarquinez/howto-release-please) — Use GitHub actions to automate the process of CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects. Optionally publish them to the npm registry.
 
 
 ## DevOps
