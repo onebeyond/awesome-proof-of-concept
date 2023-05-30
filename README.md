@@ -15,7 +15,7 @@ A curated list of awesome Proof of Concept projects to learn patterns, libraries
 Best practices are procedures and techniques that have been proved to be effective through repeated use, and often have come to be accepted as the standard way of doing things in a particular area of activity.
 
 - [POC JSON Schemas and Semantic Versioning](https://github.com/UlisesGascon/POC-semver-and-json-schemas) — Discover the Power of JSON Schemas and Semantic Versioning: Unveiling the Potential of IoT and Event-Driven Architectures.
-- [POC automation of releases]([https://github.com/UlisesGascon/POC-semver-and-json-schemas](https://github.com/inigomarquinez/howto-release-please) — Use GitHub actions to automate the process of CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects. Optionally publish them to the npm registry.
+- [POC automation of releases](https://github.com/inigomarquinez/howto-release-please) — Use GitHub actions to automate the process of CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects. Optionally publish them to the npm registry.
 
 
 ## DevOps
@@ -24,6 +24,7 @@ DevOps is the practice of creating a cross-functional team between developers an
 
 - [POC Secret Management with Blackbox](https://github.com/UlisesGascon/POC-secret-management-with-blackbox) —  Store secrets securely in Git using strong encryption without compromising the developer experience.
 - [POC AWS Proton](https://github.com/guidesmiths/chapter-devops/tree/main/pocs/AwsProton) — Not only the conclusions after having tried this service, also a guide to configure a functional environment of it.
+- [POC Node.js Machines Ping Dashboard](https://github.com/UlisesGascon/poc-nodejs-machines-ping-dashboard) - A simple way to visualize the Node.js Org Machines inventory and perform a cyclical ping to collect network metrics with a full dockerize environment and a fancy Grafana dashboard.
 
 
 ## Internet Of Things
@@ -40,6 +41,7 @@ Internet of things (IoT) is a concept where all physical devices are connected t
 Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser.
 
 - [POC Streams processing large files](https://github.com/MatteoDiPaolo/googleTakeoutLocations-to-geoJson) — Node Streams based solution to translate Google Takeout Locations History large jsons to GeoJson.
+
 
 ## Frontend
 
