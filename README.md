@@ -9,6 +9,7 @@ A curated list of awesome Proof of Concept projects to learn patterns, libraries
 - [Internet Of Things](#internet-of-things)
 - [NodeJS](#nodejs)
 - [Frontend](#frontend)
+- [Other](#other)
 
 ## Best practices
 
@@ -48,3 +49,12 @@ Node.js is a cross-platform, open-source server environment that can run on Wind
 The layer above the backend is the frontend and it includes all software or hardware that is part of a user interface. Human or digital users interact directly with various aspects of the frontend of a program, including user-entered data, buttons, programs, websites and other features.
 
 - [POC Microfrontends](https://github.com/irenemherrero/microfrontends_poc) — Proposal on how to integrate microfrontends using Module Federation from Webpack 5.
+
+## Other
+
+Other projects that are not related to previous categories
+
+- [POC Synchronize Markdown files with Confluence](https://github.com/UlisesGascon/poc-sync-markdown-with-confluence) - Proof of concept project aimed at enabling the automatic synchronization of Markdown files with Confluence
+
+
+
