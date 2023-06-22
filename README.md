@@ -57,6 +57,7 @@ The layer above the backend is the frontend and it includes all software or hard
 Other projects that are not related to previous categories
 
 - [POC Synchronize Markdown files with Confluence](https://github.com/UlisesGascon/poc-sync-markdown-with-confluence) - Proof of concept project aimed at enabling the automatic synchronization of Markdown files with Confluence.
+- [POC RSS Feed from API Requests](https://github.com/UlisesGascon/poc-nodejs-news-feeder) - It uses the GitHub API to fetch the relevant information from issues and releases in order to generate a RSS feed with the latest news.
 
 
 
