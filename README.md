@@ -48,7 +48,7 @@ Node.js is a cross-platform, open-source server environment that can run on Wind
 
 The layer above the backend is the frontend and it includes all software or hardware that is part of a user interface. Human or digital users interact directly with various aspects of the frontend of a program, including user-entered data, buttons, programs, websites and other features.
 
-- [POC Microfrontends](https://github.com/irenemherrero/microfrontends_poc) — Proposal on how to integrate microfrontends using Module Federation from Webpack 5.
+- [POC Microfrontends](https://github.com/irenemherrero/microfrontends_poc) - Proposal on how to integrate microfrontends using Module Federation from Webpack 5.
 - [POC React app internationalization](https://github.com/inigomarquinez/howto-react-i18n) - Proposal on how to do the internationalization of a React application making use of some useful frameworks.
 
 
