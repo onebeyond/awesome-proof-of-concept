@@ -9,6 +9,7 @@ A curated list of awesome Proof of Concept projects to learn patterns, libraries
 - [Internet Of Things](#internet-of-things)
 - [Node.js](#nodejs)
 - [Frontend](#frontend)
+- [.NET](#net)
 - [AI](#ai)
 - [Other](#other)
 
@@ -51,6 +52,10 @@ The layer above the backend is the frontend and it includes all software or hard
 
 - [POC Microfrontends](https://github.com/irenemherrero/microfrontends_poc) - Proposal on how to integrate microfrontends using Module Federation from Webpack 5.
 - [POC React app internationalization](https://github.com/inigomarquinez/howto-react-i18n) - Proposal on how to do the internationalization of a React application making use of some useful frameworks.
+
+## .NET
+
+.NET is a free, cross-platform, open source developer platform for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, and IoT.
 
 ## AI
 
