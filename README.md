@@ -54,6 +54,8 @@ The layer above the backend is the frontend and it includes all software or hard
 
 ## AI
 
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction.
+
 - [POC Running local instance of stable-diffusion and Slack](https://github.com/onebeyond/poc-local-stable-diffusion) - Just showing how to use StableDiffusion via Slack.
 
 ## Other
