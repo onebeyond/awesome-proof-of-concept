@@ -57,6 +57,8 @@ The layer above the backend is the frontend and it includes all software or hard
 
 .NET is a free, cross-platform, open source developer platform for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, and IoT.
 
+- [POC Packaging a .NET Core Service for Ubuntu](https://github.com/UlisesGascon/poc-packaging-dot-net-core-service-for-ubuntu) - Package a .NET web server application as a Debian package.
+
 ## AI
 
 Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction.
