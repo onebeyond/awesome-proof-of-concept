@@ -38,6 +38,7 @@ Internet of things (IoT) is a concept where all physical devices are connected t
 - [POC Azure IOT Digital Twins modeling](https://github.com/UlisesGascon/POC-azure-iot-digital-twins-modeling) - Unlock the Power of IoT with Azure Digital Twin Modeling.
 - [POC Azure IOT HUB - Ontology with Digital Twin Definition Language (DTDL)](https://github.com/UlisesGascon/POC-azure-IOT-DTDL-ontology) - The power of Ontology in the Digital Twins Definition Language universe to build powerful and sustainable devices.
 - [POC Johnny Five with Firebase Realtime Database](https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime) - How to use Firebase Realtime Database with Johnny-five library.
+- [POC Azure IOT Hub with Device Update installing custom package](https://github.com/UlisesGascon/poc-azure-iot-du-custom-package) - How to use Azure IOT Hub with Device Update installing .NET web application from a private debian package repository in a git repository.
 
 ## Node.js
 
