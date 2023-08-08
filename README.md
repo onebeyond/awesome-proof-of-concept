@@ -9,6 +9,7 @@ A curated list of awesome Proof of Concept projects to learn patterns, libraries
 - [Internet Of Things](#internet-of-things)
 - [Node.js](#nodejs)
 - [Frontend](#frontend)
+- [.NET](#net)
 - [AI](#ai)
 - [Other](#other)
 
@@ -37,6 +38,7 @@ Internet of things (IoT) is a concept where all physical devices are connected t
 - [POC Azure IOT Digital Twins modeling](https://github.com/UlisesGascon/POC-azure-iot-digital-twins-modeling) - Unlock the Power of IoT with Azure Digital Twin Modeling.
 - [POC Azure IOT HUB - Ontology with Digital Twin Definition Language (DTDL)](https://github.com/UlisesGascon/POC-azure-IOT-DTDL-ontology) - The power of Ontology in the Digital Twins Definition Language universe to build powerful and sustainable devices.
 - [POC Johnny Five with Firebase Realtime Database](https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime) - How to use Firebase Realtime Database with Johnny-five library.
+- [POC Azure IOT Hub with Device Update installing custom package](https://github.com/UlisesGascon/poc-azure-iot-du-custom-package) - How to use Azure IOT Hub with Device Update installing .NET web application from a private debian package repository in a git repository.
 
 ## Node.js
 
@@ -52,7 +54,15 @@ The layer above the backend is the frontend and it includes all software or hard
 - [POC Microfrontends](https://github.com/irenemherrero/microfrontends_poc) - Proposal on how to integrate microfrontends using Module Federation from Webpack 5.
 - [POC React app internationalization](https://github.com/inigomarquinez/howto-react-i18n) - Proposal on how to do the internationalization of a React application making use of some useful frameworks.
 
+## .NET
+
+.NET is a free, cross-platform, open source developer platform for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, and IoT.
+
+- [POC Packaging a .NET Core Service for Ubuntu](https://github.com/UlisesGascon/poc-packaging-dot-net-core-service-for-ubuntu) - Package a .NET web server application as a Debian package.
+
 ## AI
+
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction.
 
 - [POC Running local instance of stable-diffusion and Slack](https://github.com/onebeyond/poc-local-stable-diffusion) - Just showing how to use StableDiffusion via Slack.
 
@@ -62,6 +72,8 @@ Other projects that are not related to previous categories
 
 - [POC Synchronize Markdown files with Confluence](https://github.com/UlisesGascon/poc-sync-markdown-with-confluence) - Proof of concept project aimed at enabling the automatic synchronization of Markdown files with Confluence.
 - [POC RSS Feed from API Requests](https://github.com/UlisesGascon/poc-nodejs-news-feeder) - It uses the GitHub API to fetch the relevant information from issues and releases in order to generate a RSS feed with the latest news.
+- [POC Custom Package Debian Repository](https://github.com/UlisesGascon/poc-custom-package-debian-repository) - Private Debian package repository with GPG signing and HTTPS support in a git repository.
+
 
 
 
