@@ -73,7 +73,7 @@ Other projects that are not related to previous categories
 - [POC Synchronize Markdown files with Confluence](https://github.com/UlisesGascon/poc-sync-markdown-with-confluence) - Proof of concept project aimed at enabling the automatic synchronization of Markdown files with Confluence.
 - [POC RSS Feed from API Requests](https://github.com/UlisesGascon/poc-nodejs-news-feeder) - It uses the GitHub API to fetch the relevant information from issues and releases in order to generate a RSS feed with the latest news.
 - [POC Custom Package Debian Repository](https://github.com/UlisesGascon/poc-custom-package-debian-repository) - Private Debian package repository with GPG signing and HTTPS support in a git repository.
-
+- [POC Azure Blob media content optimization](https://github.com/UlisesGascon/poc-azure-blob-media-optimization) - This project is a proof of concept to demonstrate how to optimize media content stored in Azure Blob Storage.
 
 
 
