@@ -29,6 +29,10 @@ DevOps is the practice of creating a cross-functional team between developers an
 - [POC AWS Proton](https://github.com/guidesmiths/chapter-devops/tree/main/pocs/AwsProton) - Not only the conclusions after having tried this service, also a guide to configure a functional environment of it.
 - [POC Node.js Machines Ping Dashboard](https://github.com/UlisesGascon/poc-nodejs-machines-ping-dashboard) - A simple way to visualize the Node.js Org Machines inventory and perform a cyclical ping to collect network metrics with a full dockerize environment and a fancy Grafana dashboard.
 
+- [PoC Packer with GitHub Actions](https://github.com/Paula-Encinar/Packer-PoC) - Guide on how to build a new Amazon Machine Image (AMI) with the Packer tool and then deploy an EC2 instance on AWS with that AMI using Terraform and GitHub Actions.
+
+- [PoC Securing Databases on AWS](https://github.com/Paula-Encinar/DB-AWS-security-PoC) - Guide on the steps to take to keep a database secure on AWS and terraform template as an example to set up a secure database infrastructure.
+
 
 ## Internet Of Things
 
