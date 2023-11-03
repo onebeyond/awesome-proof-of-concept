@@ -19,6 +19,7 @@ Best practices are procedures and techniques that have been proved to be effecti
 
 - [POC JSON Schemas and Semantic Versioning](https://github.com/UlisesGascon/POC-semver-and-json-schemas) - Discover the Power of JSON Schemas and Semantic Versioning: Unveiling the Potential of IoT and Event-Driven Architectures.
 - [POC automation of releases](https://github.com/inigomarquinez/howto-release-please) - Use GitHub actions to automate the process of CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects. Optionally publish them to the npm registry.
+- [POC securely share .env files](https://github.com/Bounteous17/POC-share-dot-env-securely) - Without the need for an external provider, share a `.env` file securely with your team using encryption.
 
 
 ## DevOps
