@@ -64,6 +64,7 @@ The layer above the backend is the frontend and it includes all software or hard
 .NET is a free, cross-platform, open source developer platform for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, and IoT.
 
 - [POC Packaging a .NET Core Service for Ubuntu](https://github.com/UlisesGascon/poc-packaging-dot-net-core-service-for-ubuntu) - Package a .NET web server application as a Debian package.
+- [POC API Performance Comparison](https://github.com/pchicociv/api-performance-comparison) - Performance comparative between different API technologies. Starting with .NET 8 Minimal API.
 
 ## AI
 
