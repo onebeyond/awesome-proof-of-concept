@@ -80,6 +80,5 @@ Other projects that are not related to previous categories
 - [POC RSS Feed from API Requests](https://github.com/UlisesGascon/poc-nodejs-news-feeder) - It uses the GitHub API to fetch the relevant information from issues and releases in order to generate a RSS feed with the latest news.
 - [POC Custom Package Debian Repository](https://github.com/UlisesGascon/poc-custom-package-debian-repository) - Private Debian package repository with GPG signing and HTTPS support in a git repository.
 - [POC Azure Blob media content optimization](https://github.com/UlisesGascon/poc-azure-blob-media-optimization) - This project is a proof of concept to demonstrate how to optimize media content stored in Azure Blob Storage.
-
-
+- [POC Generate and validate SBOM in JS Apps] - Using SBOM with javascript applications using npm and GitHub Actions
 
